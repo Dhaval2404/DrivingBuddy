@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Driving Buddy</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="permission_phone_call_rationale">Phone Call permission is needed to disconnect call.</string>
+    <string name="permission_phone_call_denied">Phone Call permission was denied. Please consider granting it in order to disconnect call!</string>
+    <string name="permission_phone_call_neverask">Phone Call permission was denied with never ask again. You can still change this from setting menu.</string>
+
+    <string name="permission_send_sms_rationale">Send SMS permission is needed to send SMS.</string>
+    <string name="permission_send_sms_denied">Send SMS permission was denied. Please consider granting it in order to send message!</string>
+    <string name="permission_send_sms_neverask">Send SMS  permission was denied with never ask again. You can still change this from setting menu.</string>
+
+</resources>
